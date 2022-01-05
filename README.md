@@ -1,2 +1,2 @@
 # game-design-project
-oyun New Unity Project(1).exe klosörünü indirince çalışmakta.
+unity 3d ile tasarlanmış C# kullanılmış oyun 
