@@ -1,2 +1,2 @@
 # game-design-project
-unity 3d ile tasarlanmış C# kullanılmış oyun 
+Unity 3d de C# ile yazılmış oyun tasarımı bitirme projesi
